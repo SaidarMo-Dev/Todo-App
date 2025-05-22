@@ -4,13 +4,11 @@ This app allows users to manage their daily tasks efficiently
 with features such as adding, editing, completing, and deleting tasks.
 
 ## 🚀 Getting Started
-Clone the repository and install the dependencies:
-git clone https://github.com/your-username/todo-app.git
+```bash
+git clone https://github.com/SaidarMo-Dev/Todo-App.git
 cd todo-app
 npm install
 npm start
-
-
 ---
 
 ## 🚀 Demo
