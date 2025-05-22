@@ -1,0 +1,25 @@
+
+.todo-parent {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:#3F51B5;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: padding .2s;
+}
+
+.todo-parent:hover {
+  padding: 13px;
+}
+.todo-parent .content h3 {
+  margin: 0;
+}
+
+
+.todo-parent .content div {
+  text-align: left;
+}
