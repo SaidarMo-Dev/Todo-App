@@ -10,11 +10,10 @@ cd todo-app
 npm install
 npm start
 ---
-
+bash````
 ## 🚀 Demo
 
-Live Preview: [https://your-app-url.netlify.app](https://your-app-url.netlify.app)  
-*(Replace with your actual deployed URL)*
+Live Preview:   
 
 ---
 
