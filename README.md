@@ -10,10 +10,11 @@ cd todo-app
 npm install
 npm start
 ---
-bash````
+```
+
 ## 🚀 Demo
 
-Live Preview:   
+Live Preview:  https://todo-o5y2tjzhu-mohammedsaidars-projects.vercel.app
 
 ---
 
