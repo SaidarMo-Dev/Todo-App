@@ -1,9 +1,9 @@
-# 📝 React ToDo App
+## React ToDo App
 A simple and intuitive ToDo application built with **React** and **Material UI**.
 This app allows users to manage their daily tasks efficiently 
 with features such as adding, editing, completing, and deleting tasks.
 
-## 🚀 Getting Started
+## Getting Started
 ```bash
 git clone https://github.com/SaidarMo-Dev/Todo-App.git
 cd todo-app
@@ -12,7 +12,7 @@ npm run start
 ---
 ```
 
-## 🚀 Demo
+## Demo
 
 Live Preview:  https://todo-o5y2tjzhu-mohammedsaidars-projects.vercel.app
 
