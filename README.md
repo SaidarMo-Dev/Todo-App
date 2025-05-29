@@ -8,7 +8,7 @@ with features such as adding, editing, completing, and deleting tasks.
 git clone https://github.com/SaidarMo-Dev/Todo-App.git
 cd todo-app
 npm install
-npm start
+npm run start
 ---
 ```
 
